@@ -16,9 +16,11 @@ Soy un desarrollador apasionado por crear aplicaciones web modernas y robustas. 
 ### 💻 Mis Tecnologías (Skills)
 
 **Lenguajes y Frameworks**
+
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,php,laravel,py,nodejs)](https://skillicons.dev)
 
 **Base de Datos y Herramientas**
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,prisma,docker,git,github,vscode,postman)](https://skillicons.dev)
 
 ---
